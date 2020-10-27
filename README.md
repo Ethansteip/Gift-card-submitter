@@ -1,7 +1,11 @@
 <p align="center">
-  <img src="https://github.com/Ethansteip/Gift-card-submitter/blob/master/Screen%20Shot%202020-10-27%20at%2010.32.23%20AM.png" width="750" title="hover text">
+  <img src="https://github.com/Ethansteip/Gift-card-submitter/blob/master/Screen%20Shot%202020-10-27%20at%2010.32.23%20AM.png" width="450" title="hover text">
   
 </p>
 
 <h1>Gift Card Submission Form</h1>
+
+An HTML form tha I've made that allows fulfillment operators to quickly scan in QR codes from physical giftcards as well as input any additional information like card denomination, order number ect...
+
+The form is linked to a google sheet using Gspread to organize all of the submissions.
 
