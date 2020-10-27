@@ -9,10 +9,12 @@ An HTML form that I've made that allows fulfillment operators to quickly scan in
 
 The form is linked to a google sheet using Gspread to organize all of the submissions.
 
-<h1>Main Files</h1>
+<br>
+
+<h3>Main Files</h3>
 <br>
 <br>
-<p>PHP script connecting to and updating spreadsheet (still needs to be connected to the form --> /app/Models/form_submit.php</p><br>br>
+<p>PHP script connecting to and updating spreadsheet (still needs to be connected to the form --> /app/Models/form_submit.php</p><br><br>
 <p>HTML Form --> /resources/views/gift_cards.blade.php</p>
 
 
